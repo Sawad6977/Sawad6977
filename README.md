@@ -1,13 +1,5 @@
 # 💫 About Me:
-I'm **Kazi Sawad Ibne Hossain**, a dedicated and passionate **CSE Undergraduate**.<br>
-I want to develop my coding skills and contribute to **app and web application development**.<br><br>
-
-🔭 I’m currently working on **Android app development** and **portfolio websites**.<br>
-👯 I’m looking to collaborate on **Java applications, projects, and research papers**.<br>
-🤝 I’m looking for help with **problem solving, Flutter development, and full-stack web engineering**.<br>
-🌱 I’m currently learning **Dart, Java, and smartphone applications**.<br>
-💬 Ask me about **web development, Flutter development, and web design**.<br>
-⚡ Fun fact: **I am highly addicted to gaming platforms and mobile phone chipsets.**
+I'm Kazi Sawad Ibne Hossain a dedicated and passionate CSE Undergraguate.<br>I want to develop my coding skills and contribute to the app and web application Development.<br><br>🔭 I’m currently working on android app development, Portfolio websites.<br>👯 I’m looking to collaborate on java application, projects and research papers<br>🤝 I’m looking for help with problem solving, flutter development and full stack web engineering.<br>🌱 I’m currently learning dart, java and smartphone applications.<br>💬 Ask me about web development, flutter development, web design<br>⚡ Fun fact is that i am very much addicted at gaming platform and mobile phone chipsets.
 
 
 ## 🌐 Socials:
@@ -29,6 +21,7 @@ I want to develop my coding skills and contribute to **app and web application d
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sawad6977&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
----[![](https://komarev.com/ghpvc/?username=Sawad6977&icon=2&color=blue)](https://visitcount.itsvg.in)
+---
+[![](https://komarev.com/ghpvc/?username=Sawad6977&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

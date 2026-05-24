@@ -29,7 +29,6 @@ I want to develop my coding skills and contribute to **app and web application d
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sawad6977&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Sawad6977&icon=2&color=1)](https://visitcount.itsvg.in)
+---[![](https://komarev.com/ghpvc/?username=Sawad6977&icon=2&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

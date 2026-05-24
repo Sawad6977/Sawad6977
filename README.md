@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Kazi Sawad Ibne Hossain a dedicated and passionate CSE Undergraguate.**<br>I want to develop my coding skills and contribute to the app and web application Development.<br><br>🔭 I’m currently working on android app development, Portfolio websites.<br>👯 I’m looking to collaborate on java application, projects and research papers<br>🤝 I’m looking for help with problem solving, flutter development and full stack web engineering.<br>🌱 I’m currently learning dart, java and smartphone applications.<br>💬 Ask me about web development, flutter development, web design<br>⚡ Fun fact is that i am very much addicted at gaming platform and mobile phone chipsets.
+I'm **Kazi Sawad Ibne Hossain a dedicated and passionate CSE Undergraguate.**<br>I want to develop my coding skills and contribute to the **app and web application Development.**<br><br>🔭 I’m currently working on **android app development, Portfolio websites.**<br>👯 I’m looking to collaborate on **java application, projects and research papers<br>**🤝 I’m looking for help with **problem solving, flutter development and full stack web engineering**.<br>🌱 I’m currently learning **dart, java and smartphone applications.**<br>💬 Ask me about web development, flutter development, web design<br>⚡ Fun fact is that i am very much addicted at gaming platform and mobile phone chipsets.
 
 
 ## 🌐 Socials:
